@@ -1,0 +1,7 @@
+{
+  "importColor": {
+    "prefix": ["importcolor"],
+    "body": ["@import url('@/style/color.less');"],
+    "description": "Import Color Less File."
+  }
+}
